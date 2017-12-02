@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				16D0BDB11FD2C75E004C6D2E /* AppDelegate.swift */,
-				16D0BDB31FD2C75E004C6D2E /* art.scnassets */,
 				16D0BDB51FD2C75E004C6D2E /* ViewController.swift */,
 				16D0BDB71FD2C75E004C6D2E /* Main.storyboard */,
+				16D0BDB31FD2C75E004C6D2E /* art.scnassets */,
 				16D0BDBA1FD2C75E004C6D2E /* Assets.xcassets */,
 				16D0BDBC1FD2C75E004C6D2E /* LaunchScreen.storyboard */,
 				16D0BDBF1FD2C75E004C6D2E /* Info.plist */,
@@ -282,7 +282,7 @@
 				DEVELOPMENT_TEAM = 47GDWEFLEB;
 				INFOPLIST_FILE = "AR Ruler/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ryanwittrup.AR-Ruler";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.ARKitBasics47GDWEFLEB";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -297,7 +297,7 @@
 				DEVELOPMENT_TEAM = 47GDWEFLEB;
 				INFOPLIST_FILE = "AR Ruler/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ryanwittrup.AR-Ruler";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.ARKitBasics47GDWEFLEB";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
